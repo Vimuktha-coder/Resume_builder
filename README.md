@@ -137,3 +137,26 @@ education_details:
 - **degree**: Type of degree (e.g., BSc, MSc, PhD).
 - **university**: Name of the university or institution.
 - **gpa**: Your GPA (optional).
+#### 4. List Experience Details
+
+Provide information about your work experience. You can include multiple jobs:
+
+```yaml
+experience_details:
+  - position: [Job Title]
+    company: [Company Name]
+    employment_period: "[MM/YYYY - MM/YYYY or Present]"
+    location: [Location]
+    industry: [Industry]
+    key_responsibilities:
+      - [Responsibility Description]
+      - [Responsibility Description]
+      - [Responsibility Description]
+    skills_acquired:
+      - [Skill]
+      - [Skill]
+      - [Skill]
+  - position: [Job Title]
+    company: [Company Name]
+    employment_period: "[MM/YYYY - MM/YYYY or Present]"
+    location: [Location]
