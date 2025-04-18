@@ -13,10 +13,10 @@ Resume Builder
 8. [Troubleshooting](#troubleshooting)
 9. [Conclusion](#conclusion)
 10. [How to Contribute](#how-to-contribute)
-   - [Web Designers](#web-designers)
-   - [Prompt Engineers](#prompt-engineers)
-   - [Software Engineers](#software-engineers)
-   - [Other Contributions](#other-contributions)
+- [Web Designers](#web-designers)
+- [Prompt Engineers](#prompt-engineers)
+- [Software Engineers](#software-engineers)
+- [Other Contributions](#other-contributions)
 11. [Credits](#credits)
 12. [License](#license)
 13. [Disclaimer](#disclaimer)
@@ -275,3 +275,6 @@ python main.py
 
 If you encounter any issues, you can open an issue on GitHub. I'll be more than happy to assist you!
 
+## Conclusion
+
+Resume_Builder_AIHawk simplifies the resume creation process by providing a flexible, style-driven approach. By configuring `plain_text_resume.yaml` and using the interactive prompts, you can easily generate professional resumes tailored to your needs.
