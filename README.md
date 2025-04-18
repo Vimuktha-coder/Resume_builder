@@ -24,7 +24,7 @@ Resume Builder
 
 ## Introduction
 
-Resume_Builder_AIHawk is powerful Python tool that simplifies the creation of visually stunning resumes quickly and easily. With this tool, you can not only build a resume from scratch but also tailor it perfectly based on a specific job description. By inputting the URL of the job listing, Resume_Builder_AIHawk customizes your resume to match the exact requirements and skills needed, making it ideal for enhancing your chances of landing the job.
+Resume_Builder_AIHawk is powerful Python tool that simplifies the creation of visually stunning resumes quickly and easily. With this tool, you can not only build a resume from scratch but also tailor it perfectly based on a specific job description. By inputting the URL of the job listing, Resume_Builder customizes your resume to match the exact requirements and skills needed, making it ideal for enhancing your chances of landing the job.
 
 
 ## Features
