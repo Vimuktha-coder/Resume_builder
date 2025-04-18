@@ -85,4 +85,25 @@ Fill in your personal information. This section includes your basic details and 
 personal_information:
   name: [Name]
   surname: [Surname]
+  date_of_birth: "[DD/MM/YYYY]"
+  country: [Country]
+  city: [City]
+  address: [Address]
+  phone_prefix: "[+Country Code]"
+  phone: "[Phone Number]"
+  email: [Email Address]
+  github: [GitHub URL]
+  linkedin: [LinkedIn URL]
+```
 
+- **name**: Your first name.
+- **surname**: Your last name.
+- **date_of_birth**: Your date of birth in the format `DD/MM/YYYY`.
+- **country**: The country where you live.
+- **city**: The city where you live.
+- **address**: Your home address.
+- **phone_prefix**: Your phone number prefix, e.g., `+1` for the USA.
+- **phone**: Your phone number.
+- **email**: Your email address.
+- **github**: Your GitHub profile URL (optional).
+- **linkedin**: Your LinkedIn profile URL (optional).
