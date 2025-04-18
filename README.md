@@ -184,3 +184,28 @@ projects:
 - **link**: URL to the project or related resource (optional).
 
 #### 6. Add Achievements
+
+List notable achievements:
+
+```yaml
+achievements:
+  - name: [Achievement Title]
+    description: [Achievement Description]
+  - name: [Achievement Title]
+    description: [Achievement Description]
+  - name: [Achievement Title]
+    description: [Achievement Description]
+  - name: [Achievement Title]
+    description: [Achievement Description]
+```
+
+- **name**: Title of the achievement.
+- **description**: Description of the achievement.
+
+#### 7. List Certifications
+
+Include any certifications you hold:
+
+```yaml
+certifications:
+  - [Certification Name]
