@@ -254,3 +254,24 @@ This file contains sensitive information. Never share or commit this file to ver
   - Replace with your OpenAI API key for GPT integration
   - To obtain an API key, follow the tutorial at: https://medium.com/@lorenzozar/how-to-get-your-own-openai-api-key-f4d44e60c327
   - Note: You need to add credit to your OpenAI account to use the API. You can add credit by visiting the [OpenAI billing dashboard](https://platform.openai.com/account/billing).
+
+## Usage
+
+To run Resume_Builder_AIHawk, execute the following command from your terminal:
+
+```bash
+python main.py
+```
+
+## Dependencies
+
+- Resume_Builder_AIHawk depends on the [lib_resume_builder_AIHawk repository](https://github.com/feder-cr/lib_resume_builder_AIHawk) repository. The library is automatically installed at program launch.
+
+## Documentation
+
+ todo
+
+## Troubleshooting
+
+If you encounter any issues, you can open an issue on GitHub. I'll be more than happy to assist you!
+
