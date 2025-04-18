@@ -233,3 +233,24 @@ languages:
 #### 9. Add Interests
 
 Include your personal interests:
+```yaml
+interests:
+  - [Interest]
+  - [Interest]
+  - [Interest]
+```
+
+- **interest**: List your interests or hobbies.
+
+#### Example `plain_text_resume.yaml`
+
+An example `plain_text_resume.yaml` file is provided in the repository to guide you. Copy and modify it according to your personal details.
+
+### 2. Configuring `secrets.yaml`
+
+This file contains sensitive information. Never share or commit this file to version control.
+
+- `openai_api_key: [Your OpenAI API key]`
+  - Replace with your OpenAI API key for GPT integration
+  - To obtain an API key, follow the tutorial at: https://medium.com/@lorenzozar/how-to-get-your-own-openai-api-key-f4d44e60c327
+  - Note: You need to add credit to your OpenAI account to use the API. You can add credit by visiting the [OpenAI billing dashboard](https://platform.openai.com/account/billing).
