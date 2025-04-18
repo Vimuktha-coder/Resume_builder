@@ -137,6 +137,7 @@ education_details:
 - **degree**: Type of degree (e.g., BSc, MSc, PhD).
 - **university**: Name of the university or institution.
 - **gpa**: Your GPA (optional).
+
 #### 4. List Experience Details
 
 Provide information about your work experience. You can include multiple jobs:
@@ -160,3 +161,26 @@ experience_details:
     company: [Company Name]
     employment_period: "[MM/YYYY - MM/YYYY or Present]"
     location: [Location]
+
+#### 5. Detail Your Projects
+
+Include projects that you have worked on:
+
+```yaml
+projects:
+  - name: [Project Name]
+    description: [Project Description]
+    link: "[Project URL]"
+  - name: [Project Name]
+    description: [Project Description]
+    link: "[Project URL]"
+  - name: [Project Name]
+    description: [Project Description]
+    link: "[Project URL]"
+```
+
+- **name**: Name of the project.
+- **description**: A brief description of the project.
+- **link**: URL to the project or related resource (optional).
+
+#### 6. Add Achievements
