@@ -1,15 +1,5 @@
 # Resume_Builder
-
-🚀 **Join Our Telegram Community!** 🚀
-
-Join our **Telegram community** for:
-- **Support with AIHawk software**
-- **Share your experiences** with AIhawk and learn from others
-- **Job search tips** and **resume advice**
-- **Idea exchange** and resources for your projects
-
-📲 **[Join now!](https://t.me/AIhawkCommunity)**
-
+Resume_builder 
 
 ## Table of Contents
 
