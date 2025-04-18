@@ -107,3 +107,33 @@ personal_information:
 - **email**: Your email address.
 - **github**: Your GitHub profile URL (optional).
 - **linkedin**: Your LinkedIn profile URL (optional).
+
+#### 3. Provide Education Details
+
+List your educational qualifications. You can add multiple degrees:
+
+```yaml
+education_details:
+  - degree: [Degree Type]
+    university: [University Name]
+    gpa: "[GPA]"
+    graduation_year: "[Graduation Year]"
+    field_of_study: [Field of Study]
+    exam:
+      [Course Name]: "[Grade]"
+      [Course Name]: "[Grade]"
+      [Course Name]: "[Grade]"
+  - degree: [Degree Type]
+    university: [University Name]
+    gpa: "[GPA]"
+    graduation_year: "[Graduation Year]"
+    field_of_study: [Field of Study]
+    exam:
+      [Course Name]: "[Grade]"
+      [Course Name]: "[Grade]"
+      [Course Name]: "[Grade]"
+```
+
+- **degree**: Type of degree (e.g., BSc, MSc, PhD).
+- **university**: Name of the university or institution.
+- **gpa**: Your GPA (optional).
