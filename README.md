@@ -257,7 +257,7 @@ This file contains sensitive information. Never share or commit this file to ver
 
 ## Usage
 
-To run Resume_Builder_AIHawk, execute the following command from your terminal:
+To run Resume_Builder, execute the following command from your terminal:
 
 ```bash
 python main.py
@@ -265,11 +265,8 @@ python main.py
 
 ## Dependencies
 
-- Resume_Builder_AIHawk depends on the [lib_resume_builder_AIHawk repository](https://github.com/feder-cr/lib_resume_builder_AIHawk) repository. The library is automatically installed at program launch.
+- Resume_Builder_AIHawk depends on the [lib_resume_builder repository](https://github.com/Vimuktha-coder/Resume_Builder) repository. The library is automatically installed at program launch.
 
-## Documentation
-
- todo
 
 ## Troubleshooting
 
