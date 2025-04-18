@@ -209,3 +209,27 @@ Include any certifications you hold:
 ```yaml
 certifications:
   - [Certification Name]
+```
+
+- **certification**: Name of the certification.
+
+#### 8. Detail Your Language Skills
+
+List the languages you speak and your proficiency levels:
+
+```yaml
+languages:
+  - language: [Language]
+    proficiency: [Proficiency Level]
+  - language: [Language]
+    proficiency: [Proficiency Level]
+  - language: [Language]
+    proficiency: [Proficiency Level]
+```
+
+- **language**: Name of the language.
+- **proficiency**: Your proficiency level (e.g., Basic, Intermediate, Advanced).
+
+#### 9. Add Interests
+
+Include your personal interests:
