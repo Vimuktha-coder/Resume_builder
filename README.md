@@ -61,3 +61,28 @@ To get started with Resume_Builder_AIHawk, follow these steps:
     ```
 5. **Install Dependencies:**
 
+   Ensure you have `pip` installed, then run:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Configuration
+
+### 1. Configuring `plain_text_resume.yaml`
+
+The `plain_text_resume.yaml` file is crucial as it contains all your personal details and resume content. Follow these steps to configure it properly:
+
+#### 1. Create the File
+
+Create a file named `plain_text_resume.yaml` in the root directory of your project. This file will store all the necessary details to generate your resume.
+
+#### 2. Define Personal Information
+
+Fill in your personal information. This section includes your basic details and contact information:
+
+```yaml
+personal_information:
+  name: [Name]
+  surname: [Surname]
+
