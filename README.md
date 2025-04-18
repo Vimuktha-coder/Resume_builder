@@ -51,13 +51,13 @@ To get started with Resume_Builder_AIHawk, follow these steps:
 3. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/resume_builder_AIHawk.git
+    git clone https://github.com/yourusername/resume_builder
     ```
 
 4. **Navigate to the Project Directory:**
 
     ```bash
-    cd resume_builder_AIHawk
+    cd resume_builder
     ```
 5. **Install Dependencies:**
 
